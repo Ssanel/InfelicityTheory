@@ -1,0 +1,12 @@
+/Users/sergey/Desktop/Fork/InfelicityTheory/bin/Debug/netcoreapp3.1/InfelicityTheory.deps.json
+/Users/sergey/Desktop/Fork/InfelicityTheory/bin/Debug/netcoreapp3.1/InfelicityTheory.runtimeconfig.json
+/Users/sergey/Desktop/Fork/InfelicityTheory/bin/Debug/netcoreapp3.1/InfelicityTheory.runtimeconfig.dev.json
+/Users/sergey/Desktop/Fork/InfelicityTheory/bin/Debug/netcoreapp3.1/InfelicityTheory.dll
+/Users/sergey/Desktop/Fork/InfelicityTheory/bin/Debug/netcoreapp3.1/InfelicityTheory.pdb
+/Users/sergey/Desktop/Fork/InfelicityTheory/obj/Debug/netcoreapp3.1/InfelicityTheory.csprojAssemblyReference.cache
+/Users/sergey/Desktop/Fork/InfelicityTheory/obj/Debug/netcoreapp3.1/InfelicityTheory.csproj.CoreCompileInputs.cache
+/Users/sergey/Desktop/Fork/InfelicityTheory/obj/Debug/netcoreapp3.1/InfelicityTheory.AssemblyInfoInputs.cache
+/Users/sergey/Desktop/Fork/InfelicityTheory/obj/Debug/netcoreapp3.1/InfelicityTheory.AssemblyInfo.cs
+/Users/sergey/Desktop/Fork/InfelicityTheory/obj/Debug/netcoreapp3.1/InfelicityTheory.dll
+/Users/sergey/Desktop/Fork/InfelicityTheory/obj/Debug/netcoreapp3.1/InfelicityTheory.pdb
+/Users/sergey/Desktop/Fork/InfelicityTheory/obj/Debug/netcoreapp3.1/InfelicityTheory.genruntimeconfig.cache
